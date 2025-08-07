@@ -22,3 +22,10 @@ Linux History....
 
 <img width="1896" height="649" alt="Image" src="https://github.com/user-attachments/assets/69155d0a-22e9-4875-b732-71413b7a44e9" />
 
+SoloLearn Introduction to C 
+
+![Image](https://github.com/user-attachments/assets/3817b4a9-1af0-4477-85b5-0db72049db22)
+
+SoloLearn Intermediate to C 
+
+![Image](https://github.com/user-attachments/assets/e437e5e7-fc0b-4d17-b567-1b8fb0578e21)
